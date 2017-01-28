@@ -1,0 +1,5 @@
+start wiring your keypad from left to right 
+use digital pins from 9 to 2 (left to right)
+make sure you have installed keypad librabry
+if not download it from 
+http://playground.arduino.cc/Code/Keypad
